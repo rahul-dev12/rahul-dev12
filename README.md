@@ -42,7 +42,7 @@ Built with **React**, **MUI**, **GSAP**, and a custom UI to reflect both functio
 
 ### 🧠 Programming Languages
 
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Java] (https://img.icons8.com/?size=100&id=13679&format=png&color=000000)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 
